@@ -124,7 +124,7 @@ console.log("Slice     :", fullName.slice(0, 5));
 // String
 let name = "Guhan";
 let department = "Computer Science and Engineering";
-let bloodGroup = "O+";
+let bloodGroup = "A+";
 
 // Number
 let rollNumber = 101;
