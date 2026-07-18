@@ -128,7 +128,7 @@ let bloodGroup = "A+";
 
 // Number
 let rollNumber = 101;
-let age = 22;
+let age = 24;
 
 // Constant
 const collegeName = "ABC Engineering College";
